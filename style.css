@@ -18,3 +18,12 @@ button {
   height: 30px;
   font-size: 18px;
 }
+.box1,
+.box2 {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: beige;
+  border: 2px solid black;
+  text-align: center;
+}
